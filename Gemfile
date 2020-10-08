@@ -34,7 +34,7 @@ gem 'ffaker', '~> 2.5.0'
 gem 'foundation-rails', '~> 6.3.0.0'
 
 # Superuser dashboard
-gem 'administrate', '~> 0.8.1'
+gem 'administrate', '~> 0.13.0'
 
 group :development do
   gem "listen"
